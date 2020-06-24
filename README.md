@@ -1,7 +1,7 @@
 # SparkifyDb   
 
 #### Purpose
-The ETL project is designed and implemented to help my company Sparkify to perform analysis on users' song play activity using our new music app.
+The ETL project is designed and implemented to help a hypothetical company Sparkify to perform analysis on users' song play activity using our new music app.
 
 #### Database schema design and ETL pipeline
 Database design follows the STAR schema for tables. It has a Fact table : songplays and four Dimension tables: songs, artists, time and users.
